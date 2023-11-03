@@ -4,7 +4,7 @@ Link Home Work
 --action="add" = https://monosnap.com/file/OZ5LVkp8kThfIQG4X96SgLVGndZHUA
 --action="remove" = https://monosnap.com/file/ywSD5BSccBLDAA3pndpzUpmHkPx1Ml
 
-Information Seting project
+<!-- Information Seting project -->
 
 <!-- 1. Ініціалізуємо проект за допомогою за допомогою команди "npm init -y"
 2. Створюємо файл Index.js
