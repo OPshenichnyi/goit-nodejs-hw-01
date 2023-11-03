@@ -1,8 +1,8 @@
 Link Home Work  
---action="list" = https://monosnap.com/file/sS8VZBYmCG7IDuJscz9mA4DP9a7PLc
---action="get" = https://monosnap.com/file/atTnu3PyEApBUcfTnY7yYmc1t8ve84
---action="add" = https://monosnap.com/file/OZ5LVkp8kThfIQG4X96SgLVGndZHUA
---action="remove" = https://monosnap.com/file/ywSD5BSccBLDAA3pndpzUpmHkPx1Ml
+--action="list" = https://monosnap.com/file/sS8VZBYmCG7IDuJscz9mA4DP9a7PLc;
+--action="get" = https://monosnap.com/file/atTnu3PyEApBUcfTnY7yYmc1t8ve84;
+--action="add" = https://monosnap.com/file/OZ5LVkp8kThfIQG4X96SgLVGndZHUA;
+--action="remove" = https://monosnap.com/file/ywSD5BSccBLDAA3pndpzUpmHkPx1Ml;
 
 <!-- Information Seting project -->
 
